@@ -1,4 +1,4 @@
-"# raspberry_ai" 
+
 
 # Raspberry pi can be used as a home assistant
 1. task automation [ lights and electric fan ]
